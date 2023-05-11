@@ -1,5 +1,5 @@
 
-##Time Series Analysis Repository
+#Time Series Analysis Repository
 This repository contains various time series analysis projects and code examples.
 
 Projects
