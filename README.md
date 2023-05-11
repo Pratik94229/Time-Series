@@ -1,13 +1,13 @@
 
-#Time Series Analysis Repository
+# Time Series Analysis Repository
 This repository contains various time series analysis projects and code examples.
 
-Projects
-Bitcoin Price Prediction
-Using time series analysis techniques and Tensorflow and FbProphet libraries, this project aims to predict the future price of Bitcoin.
+## Projects
+### Bitcoin Price Prediction
+Using time series analysis techniques and FbProphet libraries, this project aims to predict the future price of Bitcoin.
 
-Airline Price Prediction
-This project uses LGBM and FbProphet models to forecast the weekly sales volume of Rossmann drug stores, helping with inventory management.
+###  Airline Passenger Prediction
+This project uses FbProphet models to forecast number of passengers in the future.
 
 Code Examples
 ARIMA Model
