@@ -9,26 +9,16 @@ Using time series analysis techniques and FbProphet libraries, this project aims
 ###  Airline Passenger Prediction
 This project uses FbProphet models to forecast number of passengers in the future.
 
-Code Examples
-ARIMA Model
-An example of using ARIMA model for time series forecasting. This code demonstrates the step-by-step process of model building and prediction.
+### Google stock Price Prediction 
+This project uses FbProphet models to forecast stock price of google stock.
 
-Seasonal ARIMA Model
-An example of using seasonal ARIMA model for time series forecasting. This code shows how to incorporate seasonality into the model.
-
-Exponential Smoothing Model
-An example of using exponential smoothing model for time series forecasting. This code demonstrates how to implement the model and interpret the results.
-
-Holt-Winters Model
-An example of using Holt-Winters model for time series forecasting. This code shows how to incorporate trend and seasonality into the model.
-
-Getting Started
+### Getting Started
 To use the code in this repository, you will need to have the following libraries installed:
 FbProphet
-LGBM
-Statsmodels
-Contributing
+Numpy
+Pandas etc which you can find in the column of the notebook.
+
+### Contributing
 Contributions to this repository are welcome. Please feel free to submit a pull request or open an issue if you have any suggestions or improvements.
 
-License
-This repository is licensed under the MIT License. See LICENSE for more information.
+
